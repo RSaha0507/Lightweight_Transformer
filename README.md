@@ -11,8 +11,7 @@ The internship project is **still in progress**, and the current report primaril
 - ✅ **Optimization techniques** – methodologies to minimize **computational complexity** (FLOPs) and **memory usage** while retaining performance  
 - ✅ **Future directions** – a survey of state-of-the-art research papers and experimental ideas for further optimization  
 
-You can find the report here:  
-👉 [📄 Internship Project Report (PDF)](./Internship_Project_Report.pdf)
+
 
 ---
 
@@ -31,7 +30,7 @@ Upcoming phases will include:
 
 - Transformers and Self-Attention  
 - Model Compression (Pruning, Quantization, Knowledge Distillation)  
-- Efficient Attention Mechanisms (Linformer, Performer, Reformer, etc.)  
+- Efficient Attention Mechanisms
 - Parameter Sharing & Low-Rank Factorization  
 - Future research directions for lightweight deep learning  
 
@@ -49,8 +48,8 @@ The report is based on insights from:
 ## 📬 Contact
 
 For any queries or discussion, feel free to reach out:  
-**Rounak Sahas**  
-📧 *[Your Email Here]*  
+**Rounak Saha**  
+📧 *rs574.cs008@gmail.com*
 
 ---
 
